@@ -1,8 +1,12 @@
 body {
 	padding : 0px;
 	margin : 0px;
+	background: black;
 }
-
+/*#text-1 {
+	color : white;
+}
+*/
 .container {
 	display: flex;
 	width: 100%;
@@ -72,4 +76,13 @@ form .display input {
 	background: #FF7848;
 	color :#FCF5F0;
 	font-size: 25px;
+}
+
+#footer-text-div {
+}
+
+#text-2 {
+	color : white;
+	font-size: 3px;
+
 }
