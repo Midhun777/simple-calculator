@@ -3,6 +3,9 @@ body {
 	margin : 0px;
 	background: black;
 }
+a {
+	text-decoration : none;
+}
 /*#text-1 {
 	color : white;
 }
@@ -81,6 +84,7 @@ form .display input {
 /*#footer-text-div {
 }
 */
+
 #text-2 {
 	color : white;
 	font-size: 3px;
