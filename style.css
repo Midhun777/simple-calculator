@@ -16,8 +16,8 @@ body {
 .calculator {
 	background: #000000;
 	border-radius: 10px;
-	border-left: 1px solid darkorange;
-	border-bottom: 1px solid darkorange;
+	border-left: 1px solid #FF7848;
+	border-bottom: 1px solid #FF7848;
 	
 }
 
@@ -63,6 +63,8 @@ form .display input {
 	font-size: 40px;
 	width: 300px;
 	color : #FDFDFD ;
+	border: 0;
+	background: black;
 }
 
 #equal {
