@@ -41,6 +41,9 @@ body {
 	background: #2B2B2B;
 }
 
+#operators {
+	background:#323232;
+}
 
 form .display {
 	display: flex;
